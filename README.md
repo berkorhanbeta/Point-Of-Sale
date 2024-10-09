@@ -2,6 +2,13 @@
 # Point of Sale
 
 ### Description
+We have the right to take legal action in the event that the application is shared on the internet, distribution, claiming right ownership, selling it for a fee.
+These codes are shared only for you to learn the Flutter.
+Anyone who have access to the codes is agreed to have unconditionally accepted these terms.
+
+All Rights Reserved. 
+APPBeta Mobile - www.APPBeta.net - Berk ORHAN BETA
+
 Türkçe (TR):
 * POS sistemi, yüksek çözünürlüğe sahip ekranlar ve Bluetooth bağlantısını destekleyen Android 4 ve üzeri işletim sistemine sahip cihazlar için özel olarak tasarlanmış ve geliştirilmiştir.
 * Tüm Bluetooth uyumlu terminal yazıcılar ile çıktı alma desteği sunar.
