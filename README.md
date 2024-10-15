@@ -49,7 +49,7 @@ English (EN):
 This system is developed using Flutter for three different platforms. It ensures secure communication with the database through the PHP JSON API. Users can access this system from Android, iOS, and Web platforms, allowing for simultaneous use as desired. With multi-platform support, you can enhance your productivity anytime and anywhere.
 
 ## DEMO
-Download pos_v1.0.0.apk [Android APK DEMO](https://github.com/berkorhanbeta/Point-Of-Sale/raw/main/pos_v1.0.0.apk) OR [Web DEMO](http://pos.appbeta.net/)
+Download pos_v1.0.1.apk [Android APK DEMO](https://github.com/berkorhanbeta/Point-Of-Sale/raw/main/pos_v1.0.1.apk) OR [Web DEMO](http://pos.appbeta.net/)
 
 U: mobile@appbeta.net
 
