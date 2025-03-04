@@ -22,16 +22,31 @@ Türkçe (TR):
 * Fiyatlara vergiyi dahil edebilir veya ayrı olarak ekleyebilirsiniz.
 
 English (EN):
-* The POS system is specifically designed and developed for devices running Android 4 or higher, with high-resolution displays and Bluetooth connectivity support.
-* It supports printing from all Bluetooth-compatible terminal printers.
-* Allows sales of both variable and non-variable products.
-* You can sell products for in-house dining or as takeaway service.
-* Apply different tax rates for in-house and takeaway services, as well as assign different tax rates for each category and product.
-* Generate detailed Z Reports for past transactions.
-* Monitor credit card and cash sales amounts with detailed insights.
-* You can add multiple employees and managers.
-* Print receipts with or without a logo.
-* You can include or exclude taxes in product prices.
+* Android Support: The POS system is designed for devices running Android 4 or higher.
+* Bluetooth Printer Support: Supports printing from all Bluetooth-compatible terminal printers.
+* Product Sales: Sell both variable and non-variable products with ease.
+* In-House Dining and Takeaway: Support for sales of in-house dining or takeaway services.
+* Tax Rate Management: Apply different tax rates for in-house and takeaway services, and assign different rates for each category and product.
+* Z Reports: Generate detailed Z Reports for past transactions.
+* Sales Monitoring: Monitor credit card and cash sales amounts with detailed insights and reporting.
+* Employee and Manager Management: Add and manage multiple employees and managers.
+* Receipt Printing: Print receipts with or without a logo.
+* Tax Inclusion/Exclusion: Option to include or exclude taxes in product prices.
+
+* go_router: ^14.2.5: A routing package to handle navigation across the app.
+* url_strategy: ^0.2.0: A package to manage URL strategy and routing for web apps.
+* get: ^4.6.5: State management and dependency injection for better architecture.
+* http: ^0.13.5: A package to make HTTP requests.
+* shared_preferences: ^2.1.0: Store simple app data locally on the device.
+* path_provider: ^2.0.14: Access the file system on the device.
+* provider: ^6.0.5: Another popular state management solution.
+* screenshot: ^3.0.0: Creating receipts for printer.
+* intl: ^0.19.0: For internationalization and localization.
+* image_picker: ^0.8.5+3: For picking images from the gallery or camera.
+* image_picker_web: ^4.0.0: For image picking in web applications.
+* image: ^3.0.2: An image manipulation package.
+* esc_pos_utils: ^1.1.0: Utilities for printing receipts.
+* print_bluetooth_thermal: ^1.1.1: Bluetooth thermal printer support for receipt printing.
 
 ## About Application
 Türkçe (TR):
